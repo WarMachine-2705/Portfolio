@@ -1,5 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
+
+  {
+    title: 'Wardrobe Wizard',
+    subtitle: 'AI Powered Fashion Recommendation system',
+    image: '/images/projects/wizard.png',
+    date: '2025-1-24',
+    desc:
+      'AI-powered Django platform enabling instant Virtual Try-Ons, personalized outfit recommendations, and wardrobe integration. '
+      + 'Patented system analyzes user preferences to suggest styles, connects shoppers with brands, and streamlines decision-making via uploaded clothing visualizations.'
+      + 'Enhances shopping efficiency with AI-driven insights.',
+  },
+
   {
     title: 'NUmunch',
     subtitle: 'Web-App for TMP',

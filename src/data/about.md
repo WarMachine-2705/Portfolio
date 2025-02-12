@@ -15,6 +15,11 @@ Hi, I'm Divyansh. Currently, pursuing B.Tech CSE in NIIT University Also, I am t
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
+# Achievements
+
+- I have a patent published in field of Computer Science. It is an AI-powered Django platform enabling instant Virtual Try-Ons, personalized outfit recommendations, and wardrobe integration. Patented system analyzes user preferences to suggest styles, connects shoppers with brands, and streamlines decision-making via uploaded clothing visualizations. Enhances shopping efficiency with AI-driven insights. - [Publication](https://drive.google.com/file/d/1KsHvoUXjkWVsN1YpyGqAeH8aRerQBXpU/view?usp=sharing)
+
+
 # I like
 
 - Cricket
