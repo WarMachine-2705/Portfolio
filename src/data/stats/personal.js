@@ -32,7 +32,7 @@ const data = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'Neemrana, Rajasthan',
+    value: 'Gurgaon, Haryana',
   },
 ];
 

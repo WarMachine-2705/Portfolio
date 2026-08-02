@@ -1,7 +1,7 @@
 
 # Intro
 
-Hi, I'm Divyansh. Currently, pursuing B.Tech CSE in NIIT University Also, I am the Co-founder and CTO of [NUmunch](https://numunch1-2.onrender.com/). I love to work on tools that have helped people over time. In my spare time, I invest in stocks and and also loves to listen ideas of people regarding Tech. I am particularly interested in projects with high social impact. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
+Hi, I'm Divyansh. Currently, I am an SDE – Leadership Trainee at NIIT Ltd., co-building and scaling flagship production RAG and AI conversational services, and pursuing B.Tech CSE at [NIIT University](https://niituniversity.in/). I am also the Co-founder & COO of Wakubo and Co-founder & CTO of [NUmunch](https://numunch1-2.onrender.com/). I love to build production AI systems, LLM agents, and tools that help people scale. In my spare time, I invest in stocks, read technical articles & books about money, and listen to tech ideas. I am particularly interested in projects with high social impact. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
 
 # Some history
 
@@ -17,7 +17,11 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # Achievements
 
-- I have a patent published in field of Computer Science. It is an AI-powered Django platform enabling instant Virtual Try-Ons, personalized outfit recommendations, and wardrobe integration. Patented system analyzes user preferences to suggest styles, connects shoppers with brands, and streamlines decision-making via uploaded clothing visualizations. Enhances shopping efficiency with AI-driven insights. - [Publication](https://drive.google.com/file/d/1KsHvoUXjkWVsN1YpyGqAeH8aRerQBXpU/view?usp=sharing)
+- **Published Patent in Computer Science**: AI-powered platform enabling instant Virtual Try-Ons, personalized outfit recommendations, and wardrobe integration. Patented system analyzes user preferences to suggest styles, connects shoppers with brands, and streamlines decision-making via uploaded clothing visualizations. - [Publication](https://drive.google.com/file/d/1KsHvoUXjkWVsN1YpyGqAeH8aRerQBXpU/view?usp=sharing)
+- **Enterprise AI Products**: Independently proposed, built POC, and developed PAT (Pitch Assessment Trainer), an AI-evaluated sales pitch simulator commercially sold and deployed to enterprise clients including TVS, Daikin, and Suzuki.
+- **Production Core AI & Agentic RAG**: Co-built NIIT's flagship production RAG/conversational AI backend (live 14+ months on AWS ECS), prototyped Agentic RAG V2 (semantic caching, LLM-as-judge, multi-model routing), and designed LLM Council multi-agent 5-person C-suite simulation system.
+- **Academic Excellence**: Secured 90.39%ile in JEE 2022; scored 95.4% in 10th Boards and 94% in 12th Boards.
+- **Leadership**: Pool Coordinator at NIIT University; Leadership Trainee at NIIT Ltd.
 
 
 # I like
